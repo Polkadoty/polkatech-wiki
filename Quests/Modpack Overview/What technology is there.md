@@ -1,0 +1,11 @@
+There are a couple different tech mods, but the main ones are as follows:
+- Ad Astra
+- Applied Energistics 2
+- Botania
+- Create
+- Modern Industrialization
+- Industrial Revolution
+- Tech Reborn
+- Mega Cells
+- Deep Mob Learning
+- 

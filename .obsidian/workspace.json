@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "d27182f18cc31c62",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f16385a39f9ba87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6886eccbc959a2ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modlist Unmodified.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "826104dd199bfc64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Modpack Overview/Quests Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d865a3d7802e2cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mods/Ad Astra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4efebbc8cd37dd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "11d3bfde35bd640d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bddc6a04acb6cd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3da6a287ccf5ae29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73f78f100f18af8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bddc845a26c596c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b4e72ed09397cc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bc1e1897680ebbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mods/Ad Astra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8649dcd4cf6aaadb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mods/Ad Astra.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86c4415983e60bda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b007fe9e1df44900",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mods/Ad Astra.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0d865a3d7802e2cc",
+  "lastOpenFiles": [
+    "polkatech-wiki",
+    "Todo.md",
+    "Mods/Ad Astra.md",
+    "Resources.md",
+    "Quests/Modpack Overview/Overall Progression.md",
+    "Quests/Modpack Overview/What's up with these chests.md",
+    "Quests/Modpack Overview/What are the animals.md",
+    "Quests/Modpack Overview/I Can't Keybind Everything.md",
+    "Quests/Modpack Overview/What are the extra armor slots.md",
+    "Templates/Quest Template.md",
+    "Templates/Resource Template.md",
+    "Templates",
+    "Quests/Modpack Overview/Quests Guide.md",
+    "Quests/Modpack Overview/A Pirate's Life.md",
+    "Quests/Modpack Overview/The Farmer's Life.md",
+    "Quests/Modpack Overview/What are these structures.md",
+    "Quests/Modpack Overview/What's up with these mobs.md",
+    "Biomes.md",
+    "Modlist Unmodified.md",
+    "Modlist.md",
+    "Sorted Modlist.md",
+    "PolkaTech Progression.md",
+    "Materials/Wheat Seeds.md",
+    "Quests/Modpack Overview/Call of the Wild.md",
+    "Quests/1. The Stone Age/Surviving Your First Night.md",
+    "Quests/1. The Stone Age/Advancement - Minecraft.md",
+    "PolkaTech Main Page.md",
+    "Quests/NM",
+    "Quests/Untitled",
+    "Quests/Shops",
+    "Quests/Mob Checklist",
+    "Quests/Ore Checklist",
+    "Quests/Biome Checklist",
+    "Quests/1. The Stone Age",
+    "Quests",
+    "Machines"
+  ]
+}
